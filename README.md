@@ -11,7 +11,8 @@ Project Objectives:
 
 The Dashboard for the project is as follows:
 
-<img width="1375" height="862" alt="image" src="https://github.com/user-attachments/assets/3cb22f61-3e3a-4286-9cfa-a3022cb6fece" />
+<img width="1371" height="825" alt="image" src="https://github.com/user-attachments/assets/19538ae6-a027-4614-9362-e8894949dd7b" />
+
 
 
 Results:
