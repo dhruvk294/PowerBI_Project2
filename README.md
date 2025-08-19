@@ -13,4 +13,5 @@ The Dashboard for the project is as follows:
 <img width="1375" height="862" alt="image" src="https://github.com/user-attachments/assets/3cb22f61-3e3a-4286-9cfa-a3022cb6fece" />
 
 Results:
+
 The project delivered a dynamic, real-time analytical tool capable of summarizing election results across multiple states and constituencies. It enabled the quick identification of leading parties, voter turnout patterns, and swing constituencies, while also providing geographic heat maps to highlight strongholds and weak zones for each party. By empowering stakeholders with data-driven insights into party performance, voter behavior, and participation trends, the dashboard significantly enhanced analytical depth. Compared to static reports, it improved efficiency by allowing users to generate custom insights in just seconds instead of hours.
